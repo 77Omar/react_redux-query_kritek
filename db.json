@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Omar faye",
+      "email": "fayeomzolive@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Babacar diop",
+      "email": "diopomzolive@gmail.com"
+    }
+  ]
+}
